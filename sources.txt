@@ -1,0 +1,13 @@
+Zdroje:
+    - Fonty - Google Fonts
+    - Ikony - Font Awsome
+    - Mapa - Mapy.cz API - https://api.mapy.cz/
+    
+    - Logo motýla - https://freesvg.org/simple-butterfly-silhouette
+    - Jak udělat vlastní checkbox - https://stackoverflow.com/questions/66383850/checkbox-css-cannot-change-background-color-for-the-checkbox, https://www.geeksforgeeks.org/how-to-style-a-checkbox-using-css/
+    - Jak načíst novou stráku - http://net-informations.com/js/iq/load.htm
+    - Header a footer bez kopírování na všech stránkách - https://dev.to/ourcodinghours/how-to-create-headerfooter-using-html-in-each-page-50g7
+    - Scrollování aby byl vidět element a neposouvala se stránka - https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView, https://stackoverflow.com/questions/11039885/scrollintoview-causing-the-whole-page-to-move
+    - Hamburger meu - https://www.cssscript.com/mobile-menu-ftwnav/
+
+    - Slideshow galerie byla převzána z úkolu 46. Galerie
