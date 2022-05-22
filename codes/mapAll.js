@@ -63,12 +63,12 @@ var prihoda = "src/location-pin-solid-blue.svg";
         var id = marker.getId();
         // zobrazime jeho jmeno - parovani vybraneho markeru pomoci jeho id a nasich vstupnich dat
         if (id == 1) {
-            window.location.href = "/pages/insect-OhnivacekModroleskly.html";
+            window.location.href = "pages/insect-OhnivacekModroleskly.html";
         }
         else if (id == 2) {
-            window.location.href = "/pages/insect-BatolecDuhovy.html";
+            window.location.href = "pages/insect-BatolecDuhovy.html";
         }
         else {
-            window.location.href = "/pages/adventures-Alzbetin.html";
+            window.location.href = "pages/adventures-Alzbetin.html";
         }
     });
